@@ -8,7 +8,7 @@ navbar_entries:
 project_entries:
   - title: Tuna Summoner
     url: tuna-summoner
-    desc: A turn based action/adventure game. Written in C with no engine; designed for the Game Boy Advance.
+    desc: A turn based action adventure game. Written in C with no engine; designed for the Game Boy Advance.
     highlight: C
 
   - title: Awesome Racing
@@ -18,7 +18,7 @@ project_entries:
 
   - title: Temple Raider
     url: overview-post
-    desc: A short adventure to claim the treasure of an ancient temple. Focused on visual design and space. Features level design, animation, and character modeling.
+    desc: A short treasure hunting adventure. Focused on visual design and space. Features level design, animation, and character modeling.
     highlight: Unity
 
   - title: Burnin' Rubber!
