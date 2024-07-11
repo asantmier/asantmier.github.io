@@ -9,18 +9,22 @@ project_entries:
   - title: Tuna Summoner
     url: tuna-summoner
     desc: A turn based action/adventure game. Written in C with no engine; designed for the Game Boy Advance.
+    highlight: C
 
   - title: Awesome Racing
     url: overview-post
-    desc: A Mario-Kart-esque circuit racing game prototype. Written in C# with Unity. Features navigation AI, level design, and UI design.
+    desc: A Mario-Kart-esque circuit racing game prototype. Features navigation AI, level design, and UI design.
+    highlight: Unity
 
   - title: Temple Raider
     url: overview-post
-    desc: A short adventure experience to claim the treasure of an ancient temple. Written in C# with Unity; design as part of a visual design class with an emphasis on exploration of space. Features large level design, animation, and some amateur 3D modeling and rigging.
+    desc: A short adventure to claim the treasure of an ancient temple. Focused on visual design and space. Features level design, animation, and character modeling.
+    highlight: Unity
 
   - title: Burnin' Rubber!
     url: overview-post
-    desc: A high octane stylish taxi racing game prototype. Written in C# with Unity; designed to explore some game design concepts. Features physics, level design, and UI design.
+    desc: A high octane stylish taxi racing game prototype. Designed to explore specific game design concepts. Features physics, level design, and UI design.
+    highlight: Unity
 
 old_project_entries:
   - title: Soopr
