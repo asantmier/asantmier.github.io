@@ -12,7 +12,7 @@ project_entries:
     highlight: C
 
   - title: Awesome Racing
-    url: overview-post
+    url: awesome-racing
     desc: A Mario-Kart-esque circuit racing game prototype. Features navigation AI, level design, and UI design.
     highlight: Unity
 
@@ -22,7 +22,7 @@ project_entries:
     highlight: Unity
 
   - title: Burnin' Rubber!
-    url: overview-post
+    url: burnin-rubber
     desc: A high octane stylish taxi racing game prototype. Designed to explore specific game design concepts. Features physics, level design, and UI design.
     highlight: Unity
 
