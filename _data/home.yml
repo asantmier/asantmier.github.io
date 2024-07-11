@@ -1,26 +1,26 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: resume
+  - title: Resume (open PDF)
     url: /assets/Resume-1.pdf
 
 project_entries:
-  - title: Project 1
+  - title: Tuna Summoner
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: A turn based action/adventure game. Written in C with no engine; designed for the Game Boy Advance.
 
-  - title: Project 2
+  - title: Awesome Racing
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: A Mario-Kart-esque circuit racing game prototype. Written in C# with Unity. Features navigation AI, level design, and UI design.
 
-  - title: Project 3
+  - title: Temple Raider
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: A short adventure experience to claim the treasure of an ancient temple. Written in C# with Unity; design as part of a visual design class with an emphasis on exploration of space. Features large level design, animation, and some amateur 3D modeling and rigging.
 
-  - title: Project 4
+  - title: Burnin' Rubber!
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: A high octane stylish taxi racing game prototype. Written in C# with Unity; designed to explore some game design concepts. Features physics, level design, and UI design.
 
 old_project_entries:
   - title: Soopr
@@ -41,10 +41,10 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: linkedin
+  - title: LinkedIn
     url: https://www.linkedin.com/in/allen-santmier-6a13042b0/
 
-  - title: github
+  - title: GitHub
     url: https://github.com/asantmier
 
 misc_entries:
