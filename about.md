@@ -2,7 +2,7 @@
 layout: post
 title: About
 ---
-Hi! My name is Allen and this website features a collection of my work relevent to game development and programming. You can find my [resume here](/assets/Resume.pdf), and my [LinkedIn](https://www.linkedin.com/in/allen-santmier-6a13042b0/) and [GitHub](https://github.com/asantmier) as well.
+Hi! My name is Allen and this website features a collection of my work relevent to game development and programming. You can [download my resume here](/assets/Resume.pdf), and my [LinkedIn](https://www.linkedin.com/in/allen-santmier-6a13042b0/) and [GitHub](https://github.com/asantmier) as well.
 
 As a passionate game maker, I’m devoted to designing engaging experiences using unique mechanics and new tools. I thrive both in the creativity of design and the technical challenge of implementation and I’m always looking for unexplored ways to refine existing ideas.
 
