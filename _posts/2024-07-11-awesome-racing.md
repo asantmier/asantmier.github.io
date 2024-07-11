@@ -6,5 +6,5 @@ The goal of the game is to complete three laps around one of two race track opti
 ### [Video demo](https://youtu.be/Y5Rmei31s5I)
 
 ![mpc-hc64_gD078R2wYI](https://github.com/asantmier/Awesome-Racing-Portfolio/assets/91630046/5c418da0-e855-4ea1-a495-9003a9a0ab27)
-### View the code on [GitHub](https://github.com/asantmier/Awesome-Racing-Portfolio)
+### View the code at [GitHub](https://github.com/asantmier/Awesome-Racing-Portfolio)
 You can try it yourself with the executables in the Build directory.
