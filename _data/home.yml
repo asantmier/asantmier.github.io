@@ -17,7 +17,7 @@ project_entries:
     highlight: Unity
 
   - title: Temple Raider
-    url: overview-post
+    url: temple-raider
     desc: A short treasure hunting adventure. Focused on visual design and space. Features level design, animation, and character modeling.
     highlight: Unity
 
