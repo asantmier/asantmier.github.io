@@ -6,6 +6,11 @@ navbar_entries:
     url: /assets/Resume.pdf
 
 project_entries:
+  - title: Ticket to Float
+    url: ticket-to-float
+    desc: A turn-based strategy game about connecting islands before pirates stop you. Made for Kenney Jam 2024.
+    highlight: Godot
+
   - title: Tuna Summoner
     url: tuna-summoner
     desc: A turn based action adventure game. Written in C with no engine; designed for the Game Boy Advance.
