@@ -17,7 +17,7 @@ modeling, nor retargeting animations from one model to another, I learned a lot 
 result. I also learned a lot about streamlining Unity's import process for models, lighting, performance debugging,
 and how Unity's rendering system works. This project is full of firsts and I only had a matter of days to learn
 everything and make it, so while it might not be all that impressive, I'm very proud of what I was able to accomplish.
-### Video demo https://youtu.be/fQmLIaBjyxA
+### [Video demo on Youtube](https://youtu.be/fQmLIaBjyxA)
 
 ![mpc-hc64_P4wzx5tv95](https://github.com/asantmier/Temple-Raider/assets/91630046/fefb123f-8c02-4f1b-a9d1-e0beac11b9cf)
 
