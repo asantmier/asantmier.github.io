@@ -19,7 +19,7 @@ my other projects, hence the quality of this one.
 
 ![mGBA_uRXoigg0D6](https://github.com/asantmier/Tuna-Summoner/assets/91630046/4e235b55-53fd-455f-9301-b907b7819043)
 
-### View the code at https://github.com/asantmier/Tuna-Summoner
+### View the code [GitHub](https://github.com/asantmier/Tuna-Summoner)
 
 You can try the game with any GBA emulator or at
 https://asantmier.github.io/Tuna-Summoner/
