@@ -7,7 +7,7 @@ navbar_entries:
 
 project_entries:
   - title: B.I.G. Gun
-    url: big-gun
+    url: b.i.g.-gun
     desc: Can you protect the galaxy's greatest empire from the minor accounting errors of feeble humans? Made for Pirate Software Game Jam 16.
     highlight: Godot
     
