@@ -18,7 +18,7 @@ project_entries:
 
   - title: Tuna Summoner
     url: tuna-summoner
-    desc: A turn based action adventure game. Written in C with no engine; designed for the Game Boy Advance.
+    desc: A turn based action adventure fishing game. Written in C at the hardware level for the Game Boy Advance.
     highlight: C
 
   - title: Awesome Racing
