@@ -6,6 +6,11 @@ navbar_entries:
     url: /assets/Resume.pdf
 
 project_entries:
+  - title: B.I.G. Gun
+    url: big-gun
+    desc: Can you protect the galaxy's greatest empire from the minor accounting errors of feeble humans? Made for Pirate Software Game Jam 16.
+    highlight: Godot
+    
   - title: Ticket to Float
     url: ticket-to-float
     desc: A turn-based strategy game about connecting islands before pirates stop you. Made for Kenney Jam 2024.
